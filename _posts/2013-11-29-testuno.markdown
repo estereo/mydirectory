@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Test Uno"
+---
+
+<h4>What I used</h4>
+<p>Jekyll + Bootstrap</p>
+<h4>Where can I see it?</h4>
+<p>Here: <a href="http://estereo.github.io/testuno/">http://estereo.github.io/testuno/</a></p>
+<h4>What is it?</h4>
+<p>Is an online shop that sells products for pets. Doing this is how I learn how to implement and use Bootstrap and also see how Jekyll + Markdown work.</p>

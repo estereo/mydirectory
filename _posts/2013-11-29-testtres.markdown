@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Test Tres"
+---
+
+<h4>What I used</h4>
+<p>Jekyll + Bootstrap</p>
+<h4>Where can I see it?</h4>
+<p>Here: <a href="http://estereo.github.io/testtres/">http://estereo.github.io/testtres/</a></p>
+<h4>What is it?</h4>
+<p>Same online shop as Test Uno but adding tabs with description, specifications and comments on each product page</p>

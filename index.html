@@ -1,0 +1,17 @@
+---
+layout: default
+title: My directory
+---
+
+<div id="home">
+  <p class="intro">
+	  This is a directory where you can find some of the exercises I've been doing just for learning new things that I can use for my work. Is a better way to be updated and test some ways of coding using Github at the same time through the terminal or desktop app. Doing this small tasks (some are a bit silly) is how I learn faster and understanding how everything works.
+  </p>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+	<li><button type="button" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span> Add</button></li>
+  </ul>
+  
+</div>

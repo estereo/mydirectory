@@ -1,0 +1,4 @@
+name: My directory
+markdown: redcarpet
+pygments: true
+baseurl: /mydirectory

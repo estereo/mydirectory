@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Test Seis"
+---
+
+<h4>What I used</h4>
+<p>Jekyll + Bootstrap + Flat UI + jQuery</p>
+<h4>Where can I see it?</h4>
+<p>Here: <a href="http://estereo.github.io/testseis/">http://estereo.github.io/testseis/</a></p>
+<h4>What is it?</h4>
+<p>Same online shop as Test Dos. This time when you click on 'Create Account' you will see the form. I used simple jQuery code to show or hide every step.</p>
